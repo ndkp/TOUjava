@@ -4,4 +4,4 @@ public class Quiz_06_02 {
 
             System.out.println(a.length);
         }
-    }
+}
