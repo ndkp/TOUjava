@@ -4,7 +4,7 @@ public class Quiz_05_08 {
             if(i%3 == 0) continue;
             if(i == 6) break;
             System.out.print(i+" ");
-            }
-            System.out.println();
         }
+        System.out.println();
+    }
 }
