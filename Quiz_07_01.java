@@ -1,11 +1,10 @@
 import java.util.Scanner;
 
-public class Quiz_05_05 {
+public class Quiz_07_01 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
-        int n = scan.nextInt();
-        int digit = 0;
-
+        char c = scan.next().charAt(0);
+        System.out.println(c);
     }
 }
