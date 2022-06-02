@@ -1,10 +1,7 @@
-def hello():
-    print("こんにちは")
-def bye():
-    print("さようなら")
-def greeting(func):
-    print("みなさん")
-    func()
+class A:
+    def hello(self):
+        print("こんにちは")
 
-greeting(bye)
-
+class B(A):
+    def bye(self):
+        print("さようなら")
