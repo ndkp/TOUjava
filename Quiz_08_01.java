@@ -7,4 +7,3 @@ public class Quiz_08_01 {
         System.out.println("n:"+ n);
         }
     }
-}
