@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../TOUpy"
+		},
+		{
+			"path": "../../../development/flutter/travelapp"
+		}
+	],
+	"settings": {}
+}

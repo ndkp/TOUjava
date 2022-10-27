@@ -5,6 +5,48 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Launch 演Quiz_02_04",
+            "request": "launch",
+            "mainClass": "演Quiz_02_04",
+            "projectName": "TOUjava_88cef2dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch 演Quiz_02_02",
+            "request": "launch",
+            "mainClass": "演Quiz_02_02",
+            "projectName": "TOUjava_88cef2dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exam2_07",
+            "request": "launch",
+            "mainClass": "Exam2_07",
+            "projectName": "TOUjava_88cef2dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Quiz2_05_03",
+            "request": "launch",
+            "mainClass": "Quiz2_05_03",
+            "projectName": "TOUjava_88cef2dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Quiz2_06_01",
+            "request": "launch",
+            "mainClass": "Quiz2_06_01",
+            "projectName": "TOUjava_88cef2dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Quiz2_08_03",
+            "request": "launch",
+            "mainClass": "Quiz2_08_03",
+            "projectName": "TOUjava_88cef2dd"
+        },
+        {
             "name": "Dart & Flutter",
             "request": "launch",
             "type": "dart"
