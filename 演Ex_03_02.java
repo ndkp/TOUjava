@@ -11,7 +11,7 @@
 // Scannerクラスを読み込む
 import java.util.Scanner;
 
-public class Ex_03_02 {
+public class 演Ex_03_02 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
