@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch mm",
+            "request": "launch",
+            "mainClass": "mm",
+            "projectName": "TOUjava_88cef2dd"
+        },
+        {
+            "type": "java",
             "name": "Launch 演2Quiz_03_02",
             "request": "launch",
             "mainClass": "演2Quiz_03_02",
