@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BTree",
+            "request": "launch",
+            "mainClass": "BTree",
+            "projectName": "TOUjava_88cef2dd"
+        },
+        {
+            "type": "java",
             "name": "Launch MyData",
             "request": "launch",
             "mainClass": "MyData",
